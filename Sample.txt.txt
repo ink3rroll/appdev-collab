@@ -1,1 +1,3 @@
 First time opening this text file.
+
+Added text by a collaborator.
